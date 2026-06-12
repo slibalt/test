@@ -1,5 +1,1 @@
-#Fate Client injector config file
-customProcName=false
-delaystr=5
-dllPath=D:\clueless\x64\Release\clueless.dll
-procName=minecraft.windows.exe
+
